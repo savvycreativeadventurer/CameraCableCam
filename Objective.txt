@@ -1,0 +1,4 @@
+The Objective of this Project
+-----------------------------
+
+I Build a drone however after building the drone i realised that it is not of much help to me in the venues that i want to shoot video. It often arent permited or it cannot pickup enough satalites to make it safe enough to fly. So i wanted something which i can use to follow a subject without restrictions to land.
